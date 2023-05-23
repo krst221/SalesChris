@@ -1,0 +1,9 @@
+switch:
+  title: Nintendo Switch
+  description: Versión OLED, en buen estado
+  price: 200
+
+macbook:
+  title: Macbook Pro 16"
+  description: No funciona el trackpad
+  price: 1200
