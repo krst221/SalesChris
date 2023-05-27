@@ -1,2 +1,35 @@
 en:
-  hello: "Hello world"
+  activerecord:
+    models:
+      product: Product
+    attributes:
+      product:
+        title: 'Title'
+        description: 'Description'
+        price: 'Price'
+        photo: 'Photo'
+    errors:
+      models:
+        product:
+          attributes:
+            title:
+              blank: 'cannot be empty'
+            description:
+              blank: 'cannot be empty'
+            price:
+              blank: 'cannot be empty'
+  common:
+    confirm: 'Are you sure?'
+  products:
+    edit:
+      title: 'Edit product'
+    new:
+      title: 'Add product'
+    index:
+      title: 'Products'
+    create:
+      created: 'Your product has been created successfully'
+    update:
+      updated: 'Your product has been updated successfully'
+    destroy:
+      destroyed: 'Your product has been deleted successfully'
