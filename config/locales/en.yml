@@ -1,4 +1,7 @@
 en:
+  shared:
+    header:
+      add: 'Add product'
   activerecord:
     models:
       product: Product
@@ -13,14 +16,18 @@ en:
         product:
           attributes:
             title:
-              blank: 'cannot be empty'
+              blank: 'cannot be blank'
             description:
-              blank: 'cannot be empty'
+              blank: 'cannot be blank'
             price:
-              blank: 'cannot be empty'
+              blank: 'cannot be blank'
   common:
     confirm: 'Are you sure?'
+    back: 'Go back'
   products:
+    show:
+      edit: 'Edit product'
+      delete: 'Delete product'
     edit:
       title: 'Edit product'
     new:
@@ -33,3 +40,21 @@ en:
       updated: 'Your product has been updated successfully'
     destroy:
       destroyed: 'Your product has been deleted successfully'
+  categories:
+    category:
+      edit: 'Edit'
+      delete: 'Delete'
+    index:
+      title: 'Categories'
+      new: 'Add category'
+    edit:
+      title: 'Edit category'
+    create:
+      created: "Your category has been created successfully"
+    update:
+      updated: "Your category has been updated successfully"
+    destroy:
+      destroyed: "Your category has been destroyed successfully"
+    new:
+      title: 'New category'
+    

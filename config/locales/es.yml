@@ -1,4 +1,7 @@
 es:
+  shared:
+    header:
+      add: 'Añadir producto'
   activerecord:
     models:
       product: Producto
@@ -20,7 +23,11 @@ es:
               blank: 'no puede estar vacío'
   common:
     confirm: '¿Estás seguro?'
+    back: 'Volver'
   products:
+    show:
+      edit: 'Editar producto'
+      delete: 'Eliminar producto'
     edit:
       title: 'Editar producto'
     new:
@@ -33,3 +40,20 @@ es:
       updated: 'Tu producto se ha actualizado correctamente'
     destroy:
       destroyed: 'Tu producto se ha eliminado correctamente'
+  categories:
+    category:
+      edit: 'Editar'
+      delete: 'Eliminar'
+    index:
+      title: 'Categorías'
+      new: 'Añadir categoría'
+    edit:
+      title: 'Editar categoría'
+    create:
+      created: "Tu categoría se ha creado correctamente"
+    update:
+      updated: "Tu categoría se ha actualizado correctamente"
+    destroy:
+      destroyed: "Tu categoría se ha eliminado correctamente"
+    new:
+      title: 'Nueva categoría'
