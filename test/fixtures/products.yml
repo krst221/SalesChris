@@ -1,17 +1,155 @@
+ps4:
+  title: PS4 Fat
+  description: PS4 en buen estado
+  price: 150
+  category: videogames
+
 switch:
   title: Nintendo Switch
-  description: Versión OLED, en buen estado
-  price: 200
+  description: Le falla el lector de tarjeta SD
+  price: 195
   category: videogames
 
-ps2:
-  title: PlayStation 2
-  description: Modelo slim, algunos golpes
-  price: 100
+nintendo64:
+  title: Nintendo 64
+  description: Con su caja, solo tiene algún pequeño arañazo
+  price: 190
   category: videogames
 
-macbook:
-  title: Macbook Pro 16"
-  description: No funciona el trackpad
-  price: 1200
+megadrive:
+  title: Sega Megadrive
+  description: Funciona perfectamente, solo la consola
+  price: 90
+  category: videogames
+
+driver2:
+  title: Driver 2 para PS1
+  description: Como nuevo, en su caja y con instrucciones
+  price: 25
+  category: videogames
+
+ps5:
+  title: PS5 sin lector
+  description: A estrenar, usada solo dos veces
+  price: 650
+  category: videogames
+
+gameboy:
+  title: Game Boy Color
+  description: Con su caja. Color morada transparente
+  price: 150
+  category: videogames
+
+air:
+  title: Macbook Air
+  description: Le falla la batería
+  price: 250
   category: computers
+
+imac:
+  title: iMac 27" 2015
+  description: i5 con 8GB de RAM y SSD
+  price: 90
+  category: computers
+
+ryzen:
+  title: AMD Ryzen 5950x
+  description: Sin estrenar, precintado
+  price: 590
+  category: computers
+
+nvidia:
+  title: Nvidia RTX 3090ti
+  description: Solo usada 3 meses, la vendo porque no la uso
+  price: 1500
+  category: computers
+
+ram:
+  title: 16GB RAM DDR4 3200mhz
+  description: Funciona perfectamente
+  price: 95
+  category: computers
+
+renault:
+  title: Renault Clio 2009
+  description: 85000Km, 95CV
+  price: 4500
+  category: cars
+
+seat:
+  title: Seat Panda 1990
+  description: Tan solo 90000Km, 75CV. Del año
+  price: 5500
+  category: cars
+
+michael:
+  title: Vinilo Michael Jackson Thriller
+  description: Como nuevo, poco uso
+  price: 45
+  category: music
+
+queen:
+  title: Vinilo Queen
+  description: Ligeras marcas de uso, de los años 80
+  price: 35
+  category: music
+
+tv:
+  title: TV LG 48 pulgadas
+  description: Viene con Smart TV, funciona perfectamente
+  price: 350
+  category: electronics
+
+kindle:
+  title: Lector de libros Kindle 2010
+  description: Tiene marcas de uso, pero funciona bien
+  price: 35
+  category: electronics
+
+ipod:
+  title: iPod touch
+  description: A estrenar con su caja
+  price: 175
+  category: electronics
+
+harry:
+  title: Colección entera de Harry Potter
+  description: Todos los libros de la saga. Bien cuidados!
+  price: 65
+  category: books
+
+hobbit:
+  title: El Hobbit
+  description: Libro en buen estado
+  price: 15
+  category: books
+
+iphone:
+  title: iPhone 13
+  description: Funciona correctamente, algún arañazo
+  price: 400
+  category: mobile
+
+pixel:
+  title: Google Pixel 4
+  description: Le falla la batería
+  price: 100
+  category: mobile
+
+surf:
+  title: Tabla de surf
+  description: Usada dos veces, como nueva
+  price: 125
+  category: sports
+
+tennis:
+  title: Raqueta de tenis profesional
+  description: Fabricada en fibra de carbono. Solo un par de arañazos
+  price: 135
+  category: sports
+
+skate:
+  title: Skateboard
+  description: Como nuevo, con las ruedas recién cambiadas
+  price: 75
+  category: sports
