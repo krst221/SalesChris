@@ -1,4 +1,6 @@
 en:
+  app_name: 'SalesChris'
+  meta_title: 'Buy and sell second hand products!'
   shared:
     header:
       add: 'Add product'
@@ -61,7 +63,7 @@ en:
     update:
       updated: "Your category has been updated successfully"
     destroy:
-      destroyed: "Your category has been destroyed successfully"
+      destroyed: "Your category has been deleted successfully"
     new:
       title: 'New category'
     
