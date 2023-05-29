@@ -1,9 +1,6 @@
 en:
   app_name: 'SalesChris'
   meta_title: 'Buy and sell second hand products!'
-  shared:
-    header:
-      add: 'Add product'
   activerecord:
     models:
       product: Product
@@ -26,6 +23,13 @@ en:
   common:
     confirm: 'Are you sure?'
     back: 'Go back'
+  shared:
+    header:
+      add: 'Add product'
+  authentication:
+    users:
+      create:
+        created: 'Your account has been created succesfully'
   products:
     show:
       edit: 'Edit product'
